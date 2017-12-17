@@ -1,9 +1,9 @@
 # Site settings
 title: Erik Partridge
-description: 'Public Policy & Technology, McGill University 2019'
+description: 'Public Policy & Technology, McGill University 2018'
 url: 'https://wwww.erikpartridge.com'
 baseurl: ''
-# google_analytics: 'UA-XXXXXX-X'
+google_analytics: 'UA-111338843-1'
 # disqus_shortname: 'your-disqus-name'
 
 author:
